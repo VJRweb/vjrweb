@@ -1,0 +1,22 @@
+body{
+    
+}
+header{
+    margin-top: 75px;
+}
+#testimonial{
+    background: #d4cfcf;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+footer{
+    background: #d4cfcf;
+    text-align: center;
+    list-style: none;
+
+}
+.segundo-footer{
+    text-align: center;
+    background-color: #949393;
+}
